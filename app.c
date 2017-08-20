@@ -23,7 +23,7 @@ int main(void){
 		int cont=0, iter=0, val = 0; 
 	 
 	 	// INICIO DEL PROGRAMA
-		printf("METODO DE BISECCION\n" );
+		printf("METODO DE TAL :v\n" );
 		
 		// REQUERIMIENTO DE INTERVALO 
 		printf("Introduce x1\n"); 
